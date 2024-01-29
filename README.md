@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/DamnUi/Quizzyboat/assets/81849260/b745166f-591d-44ee-aa4c-83b45a963309">
+  <img width="460" height="300" src="https://github.com/DamnUi/Quizzyboat/assets/81849260/73da946e-0ba5-4af0-a547-83c35cae36f5">
 </p>
 
 # Quizzyboat
